@@ -1,1 +1,4 @@
+com\manong\controller\ProductController.class
+com\manong\controller\ProductCategroyController.class
 com\manong\controller\UserController.class
+com\manong\controller\PageController.class

@@ -10,6 +10,7 @@ com\manong\pojo\ProductExample$GeneratedCriteria.class
 com\manong\pojo\UserExample.class
 com\manong\pojo\ProductCategoryExample$Criterion.class
 com\manong\pojo\ProductExample$Criteria.class
+com\manong\pojo\EasyUITree.class
 com\manong\pojo\UserExample$Criterion.class
 com\manong\pojo\ProductCategory.class
 com\manong\pojo\ProductCategoryExample.class
