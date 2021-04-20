@@ -13,4 +13,6 @@ public class ProductController {
     public String product_list(){
         return "product_list";
     }
+
+
 }

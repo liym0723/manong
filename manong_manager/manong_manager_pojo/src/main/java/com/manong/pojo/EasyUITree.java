@@ -38,4 +38,5 @@ public class EasyUITree {
     public void setState(String state) {
         this.state = state;
     }
+
 }

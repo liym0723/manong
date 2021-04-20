@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [20/Apr/2021:09:15:47 +0800] "GET / HTTP/1.1" 200 1898 http-bio-3000-exec-1 1597
+0:0:0:0:0:0:0:1 - - [20/Apr/2021:09:15:49 +0800] "GET /product_cat_list?_=1618881347859 HTTP/1.1" 200 2580 http-bio-3000-exec-3 790
+0:0:0:0:0:0:0:1 - - [20/Apr/2021:09:15:50 +0800] "POST /product_category/list HTTP/1.1" 200 322 http-bio-3000-exec-2 404
+0:0:0:0:0:0:0:1 - - [20/Apr/2021:09:15:50 +0800] "POST /product_category/list HTTP/1.1" 200 322 http-bio-3000-exec-4 414
+0:0:0:0:0:0:0:1 - - [20/Apr/2021:09:15:51 +0800] "POST /product_category/del HTTP/1.1" 200 62 http-bio-3000-exec-5 227
+0:0:0:0:0:0:0:1 - - [20/Apr/2021:09:16:18 +0800] "GET /product_list?_=1618881347860 HTTP/1.1" 200 1181 http-bio-3000-exec-7 698
+0:0:0:0:0:0:0:1 - - [20/Apr/2021:09:16:18 +0800] "GET /css/themes/icons/pencil.png HTTP/1.1" 200 713 http-bio-3000-exec-6 41
+0:0:0:0:0:0:0:1 - - [20/Apr/2021:09:16:18 +0800] "GET /css/themes/icons/search.png HTTP/1.1" 200 813 http-bio-3000-exec-8 41
+0:0:0:0:0:0:0:1 - - [20/Apr/2021:09:16:18 +0800] "GET /css/themes/default/images/pagination_icons.png HTTP/1.1" 200 628 http-bio-3000-exec-10 20
+0:0:0:0:0:0:0:1 - - [20/Apr/2021:09:16:18 +0800] "POST /product/list HTTP/1.1" 404 949 http-bio-3000-exec-1 3

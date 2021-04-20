@@ -1,3 +1,4 @@
+com\manong\pojo\ResponseJsonResult.class
 com\manong\pojo\UserExample$Criteria.class
 com\manong\pojo\ProductExample$Criterion.class
 com\manong\pojo\User.class
